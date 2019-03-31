@@ -1,3 +1,6 @@
 [submodule "seasons"]
 	path = seasons
 	url = git@github.com:whatTheDuck101/seasons.git
+[submodule "pictures"]
+	path = pictures
+	url = git@github.com:whatTheDuck101/pictures.git
